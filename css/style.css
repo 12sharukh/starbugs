@@ -1,0 +1,402 @@
+/*header section css end===========================*/
+html
+{
+	scroll-behavior:smooth;
+}
+header{
+	height: 50px;
+	margin-top: -6px;
+	height: 35px;
+}
+.menu{
+	background:white;
+	}
+.menu li{
+	display:inline-block;
+	position: relative;
+	top: -30px;
+	
+}
+.menu a{
+	color:black;
+	font-size:20px;
+	text-decoration:none;
+	position:relative;
+	left:-50px;
+	top:20px;
+	margin-left: 30px;
+	font-family: sans-serif;
+}
+.menu a:hover{
+	border-bottom: 2px solid black;
+}
+.menu li input{
+	position:relative;
+	top:20px;
+	left:-40px;
+	height:28px;
+	width:240px;
+	padding-left: 25px;
+	border-radius:30px
+}
+.menu img{
+	height: 40px;
+	width: 40px;
+	border-radius: 30px;
+	position: relative;
+	left: -90px;
+	top: 4px;
+}
+#li{
+	margin-left: 60px;
+}
+/*header section in fa-fa icon css start===========================*/
+#fa1
+{   
+	position:relative;
+	top:22px;
+	right: 278px;
+	font-size: 16px;
+	color:rgb(99, 96, 99);
+}
+#fa2{
+	border: 1px solid black;
+	border-radius: 30px;
+	height: 26px;
+	width: 32px;
+	padding-top: 4px;
+	position: relative;
+	bottom: 8px;
+	left: -22px;
+	font-size: 20px;
+}
+/*header section in fa-fa icon css start===========================*/
+
+/*header section css end===========================*/
+
+/*banner section css start===========================*/
+
+.banner{
+	height: 60px;
+	background: #1e3932;
+	
+	padding-left: 100px;
+}
+.banner p{
+	padding-top:17px;
+	margin-left:-160px;
+	color: #f9f9f9;
+}
+.banner button{
+	border-radius: 30px;
+	margin-left: 450px;
+	width: 90px;
+	height: 25px;
+}
+/*heading css start===========================*/
+
+h2{
+	position: relative;
+	right: 380px;
+	font-size: 18px;
+	color:  #1e3932;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	font-family: Arial Black;
+}
+
+/*heading css start===========================*/
+.item{	
+	margin-left: -100px;
+}
+
+.item img{
+	height: 80px;
+	width: 80px;
+	margin-top: 12px;
+	border-radius: 50px;
+}
+.item div{
+	display: inline-block;
+	position: relative;
+	left: 13px;
+	padding-left: 80px;
+}
+.item h6{
+	font-size: 14px;
+	margin-top:6px;
+	font-family: monospace;
+}
+h5{
+		margin-top: 3px;
+		position: relative;
+		bottom: 70px;
+		font-size: 14px;
+		width: 90px;
+		font-family: cursive;
+}
+
+/*banner section css end===========================>>*/
+
+/*about section css star===========================>>*/									
+.about{
+		height: 240px;
+		margin-top: 40px;
+}
+.about div{
+	display: inline-block;
+	background:white;
+	width:270px;
+	margin-left: 17px;
+	border:1px solid black;
+	height: 130px;
+	margin-left: 60px;
+	position: relative;
+	left: -30px;
+	border-radius: 10px;
+}
+.about img{
+	height: 80px;
+	width: 80px;
+	position: relative;
+	right: 85px;
+	top: 10px;
+	border-radius: 10px;
+}
+.about h6{
+	color:blac;
+	position: relative;
+	bottom: 70px;
+	left: 24px;
+}
+.about button{
+	border-radius: 20px;
+	border:none;
+	height: 27px;
+	width: 80px;
+	background: green;
+	color: white;
+	position: relative;
+	left: 72px;
+	top: -87px;
+}
+.about p{
+	font-size: 15px;
+	position: relative;
+	right: 94px;
+	bottom: 50px;
+}
+.about i{
+	font-size: 12px;
+}
+
+/*about section css star===========================>>*/			
+
+.summery{
+	margin-top: -30px;
+}
+.summery img{
+	height: 170px;
+	position: relative;
+	right:345px;
+	top: 5px;
+}
+.summery div{
+	background: #d63384;
+	border-radius: 10px;
+	height: 170px;
+	width: 944px;
+	margin-top: 30px;
+	margin-left: 5px;
+	margin-top: 60px;
+}
+.summery span{
+	font-size: 15px;
+	font-family: sans-serif;
+	position: relative;
+	bottom: 150px;
+	left: -330px;
+}
+.summery h3{
+	font-size: 20px;
+	font-family: sans-serif;
+	position: relative;
+	bottom: 160px;
+	left: -230px;
+}
+.summery p{
+	font-size: 12px;
+	font-family: sans-serif;
+	position: relative;
+	bottom: 160px;
+	left: -24;
+}
+#for{
+	position: relative;
+	left: -312px;
+	font-size: 16px;
+}
+#for1{
+	position: relative;
+	left: 70px;
+	bottom:2px;
+	font-size: 14px;
+}
+#order{
+	background: whitesmoke;
+	border: 1px solid black;
+	color: black;
+	position: relative;
+	top: -330px;
+	left: 760px;
+}
+#h3{
+	position: relative;
+	right: 340px;
+	font-size: 18px;
+	right: 272px;
+	color:  #1e3932;
+	font-family: Arial Black;
+}
+/*about section css end===========================>>*/
+
+/*intro section css start===========================>>*/
+
+.image{
+	height: 400px;
+	background: whitesmoke;
+}
+.image h2{
+	padding-top: 20px;
+	padding-left: 20px;
+	font-family:  monospace;
+}
+.image img{
+	height: 300px;
+	width:960px;
+	position: relative;
+	top: 10px;
+	right:0px;
+	border-radius: 10px;
+}
+
+.h3{
+	color: whitesmoke;
+	position: relative;
+	bottom: 220px;
+	right: 200px;
+	font-size: 40px;
+
+	
+}
+#h{
+	position: relative;
+	width: 300px;
+	position: relative;
+	left: -310px;
+	bottom: 180px;
+}
+.h4{
+	color: cornsilk;
+	position: relative;
+	bottom: 220px;
+	left: -155px;
+	width: 600px;
+}
+.image button{
+	background: white;
+	color: black;
+	font-size: 14px;
+	height: 33px;
+	width: 140px;
+	border-radius: 30px;
+	margin-top: 110px;
+	margin-left: 50px;
+}
+/*intro section css end===========================>>*/
+/*footer section css start===========================>>*/
+.footer{
+	background:#0e382c;
+	height: 300px;
+	border-radius: 6px;
+	
+}
+.footer div{
+	
+	display: inline-block;
+}
+.footer li{
+	padding-top: 15px;
+}
+.footer a{
+	text-decoration: none;
+	color: white;	
+}
+#img1{
+	height: 150px;
+	width: 150px;
+	position: relative;
+	bottom:6px;
+	left: 36px;
+}
+#com{
+	position: relative;
+	top: 32px;
+}
+.social{
+	
+	font-size: 16px;
+	color: white;
+	position: relative;
+	bottom: 69px;
+	left: 70px;
+}
+
+h1{
+	font-size: 24px;
+	font-family: monospace;
+}
+#h11{
+	position: relative;
+	top: 34px;
+}
+#w{
+	font-size: 30px;
+	position: relative;
+	right: 20px;
+	padding-left: 19px;
+}
+#bt{
+	position: relative;
+	right: 130px;
+	height: 60px;
+	font-size: 14px;
+	border-radius: 30px;
+	width: 200px;
+	background:silver;
+}
+#p{
+	font-size: 47px;
+	position: relative;
+	right: 10px;
+	top: 3px;
+}
+#end{
+	font-size: 20px;
+	position: relative;
+	bottom: 17px;
+}
+#deepamam{
+	height: 90px;
+	width: 200px;
+	
+}
+#deep{
+	width: 140px;
+	height: 50px;
+	margin-left: 900px;
+	margin-top: 30px;
+}
+#deep:hover{
+	border-bottom: 2px solid silver;
+}
